@@ -8,7 +8,7 @@ import io.github.cdimascio.dotenv.Dotenv;
 @SpringBootApplication
 public class ApiLanguagesApplication {
 		public static void main(String[] args) {
-			Dotenv dotenv = Dotenv.load();
+			Dotenv dotenv = Dotenv.configure().ignoreIfMissing().load();
 			String mongodbPassword = dotenv.get("MONGODB_PASSWORD");
 			String mongodbUser = dotenv.get("MONGODB_USER");
 			String mongodbUDatabase = dotenv.get("MONGODB_DATABASE");
