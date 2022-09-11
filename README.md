@@ -4,9 +4,9 @@ O repositório contém o desenvolvimento de uma API que gerencia linguagens de p
 
 Os dados estão salvos em banco de dados MongoDB hospedado no [MongoDB Cloud](https://cloud.mongodb.com).
 
-O deploy da aplicação foi feito no Heroku e a url base para acessá-la é:
+O deploy da aplicação foi feito no [Railway](https://railway.app) e a url base para acessá-la é:
 
-[https://alura-java-api-code-languages.herokuapp.com](https://alura-java-api-code-languages.herokuapp.com)
+[https://alura-java-api-code-languages-production.up.railway.app](https://alura-java-api-code-languages-production.up.railway.app)
 
 ## Endpoints
 
