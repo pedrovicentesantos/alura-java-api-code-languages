@@ -2,11 +2,7 @@
 
 O repositório contém o desenvolvimento de uma API que gerencia linguagens de programação utilizando Spring Boot e Java, feita como parte da Imersão Java da [Alura](https://www.alura.com.br).
 
-Os dados estão salvos em banco de dados MongoDB hospedado no [MongoDB Cloud](https://cloud.mongodb.com).
-
-O deploy da aplicação foi feito no [Railway](https://railway.app) e a url base para acessá-la é:
-
-[https://alura-java-api-code-languages-production.up.railway.app](https://alura-java-api-code-languages-production.up.railway.app)
+Os dados estão salvos em banco de dados MongoDB.
 
 ## Endpoints
 
